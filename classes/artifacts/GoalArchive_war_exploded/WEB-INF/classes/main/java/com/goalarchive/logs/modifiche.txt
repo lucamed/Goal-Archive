@@ -1,0 +1,4 @@
+[20/01/2026 17:12:06] Utente: admin | Azione: AGGIUNTA TROFEO | Club: AS Roma | ID Competizione: 2 | Anno: 2002 | Motivo: trofeo mancante
+
+[20/01/2026 17:37:19] Utente: admin | Azione: MODIFICA TROFEO | Club: FC Barcelona | ID Competizione: 5 | Anno modificato: 2009 → 2008 | Motivo: anno errato
+[20/01/2026 17:39:27] Utente: admin | Azione: ELIMINAZIONE TROFEO | Club: FC Barcelona | Competizione: UEFA Champions League | Anno: 1992 | Motivo: errata
