@@ -1,1 +1,1 @@
-# Goal-Archive
+GoalArchive è un progetto software sviluppato per il corso di Ingegneria del Software all'Università degli Studi di Salerno. L'obiettivo di questo progetto è di creare un archivio di dati calcistici storici (Palmares, Rose storiche e dati dei calciatori) implementando interazioni con l'utente tramite commenti a topic proposti e aggiunta ai preferiti di club o calciatori.
